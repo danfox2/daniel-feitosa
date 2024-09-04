@@ -1,13 +1,13 @@
-# daniel
-sou estudandante do ensino medio
-cursando RH
-estudante do Alura
-tenho 15 anos 
-sou entusiata geral de humanas linguagens e politica e geopolitica
+### Boas vindas ao meu perfil 💙
 
-habilidades 
-comuniçao
-empatia 
-adapitavel
+Meu nome é Daniel Feitosa
 
-objetivo conclusao do cursos do alura 
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo 📫
+
+danielfeitosadossantos011@gmail.com.br
+
+https://images.app.goo.gl/yRVKaBbuFKKYdHMT8
