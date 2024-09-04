@@ -1,4 +1,4 @@
-# daniel-feitosa
+# daniel
 sou estudandante do ensino medio
 cursando RH
 estudante do Alura
